@@ -1,0 +1,739 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:2:1-70:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/64d5254b6bd114d1980aa2f9533ed865/AndroidManifest.xml:2:1-6:12
+MERGED from [io.github.kobakei:ratethisapp:1.2.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/ratethisapp-1.2.0.aar/3f7974790e6b9684a3fc0885fcca5c9c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:2:1-86:12
+MERGED from [com.android.support:design:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/777b7c9282e34c9806e6efb08e7dfc71/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.0.aar/544c09663df384c46afa1a5392dd56d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/477cb3ce28420c7dd5b83da9a0b4631d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/6fa4acce58152cf0a7a5d9d9a7a3d5d7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/dfaba245df6c79599ae47f7bdf08a7c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-firestore:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-firestore-3.2.2.aar/a4953ad22a019bc20097d029e6fdd461/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/38aecf1bd7549d0e1f1f588e36327109/AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-storage:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-storage-3.2.2.aar/0892aeac8b19f28a5b7521e38682707a/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.8.0.aar/9d3423ad5a410b4db6f5e239012804bd/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-firestore:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-firestore-11.8.0.aar/8545f4c5a9f2b39dd533f527cb898ebb/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/632375fa8c254bc0bff49a5f7d66e3bc/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/751932569fe52902ad89f1ac860c1a17/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f1ed2e4f34b0ddb4c6bbc17ef01d3eb2/AndroidManifest.xml:17:1-39:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/a978c5d8a506218e8c987bb6ed0fdefa/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bb4d61515926a8571b769d564579be0/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:17:1-54:12
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-3.2.2.aar/943b12ef080c0376256a0465d7272c36/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/d366017f89e4092c9d623d7f233d5e4c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/c02d5cbd0376dbe83349e00cea82f175/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:transition:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/76738b90abe81710a04296e2bb051597/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/c9f818f9599b6079799f0fe147bab3f8/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/5cf2f0603ac9a320bce907fb4a6b58d1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9b96690fa955c4663ec5fe202888b4f1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/4e737847a7efa60f814d3e4eafe1419a/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/041ac26262146ec57b00aa76b84b7399/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/47ab436b11b9040edf6b42541b0ec200/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2e9234bd919d7a655420faea22a8ae20/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/9a47243299bf5fc8f9f6a850e8aaf526/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2456679166e920eb6c4486a4be1df957/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/0492ab251bdf7f616bbc18bbc78632e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/3183dcec8d4ce65a616863ba213a6559/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/6f173abd30e534d25640a08209f5ff68/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/7ba0dd172d1a0d0c8d00fb09b7b4b1ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/fed4fed1aadb009504b76c4ee2ef191e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/715c5e8159b71e20affb0ae630f6cec8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/3b95ce8dd3b22bb8fe83f44def7e1e6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/75e52ee6fc821a32d8ecad047a4a25c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/d20e2604a2724b17001a94297ce367c7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dc8303ca4c8a3235b586bca6d92b8359/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/290388abcee5a07c362a22fca7ac6b6a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2c8f1713cfc53616cdaa92af895b2a6b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/71d5468fd9d1ea2b36627841e396bd28/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/943007002ec5a0102d6bef26fcdc6899/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/0057221f210c72e54c01e70aab9d8dfe/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/1d0ef7a09ec358be2c8eb973ca486500/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/0810bc9a2c2385b8ad8d57ab8430acca/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/31b590a47a0887c96d71a3eccdc922bc/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/8b23b8f1933814e747e2ac7057a1e643/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/b1ec93a0838788dd005c49c2845556a5/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/e9f4eb6d31d654fc26e014bf318bcd57/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/dd5eb7b2cf969539630e2f4fc565b15c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/27d78caabe96ff7870cd1aa03dca96c1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/369261932186f973a9760168ee1dbf63/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/8128c5974c29a000753f927eba2eb3bc/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/89d217a4bfffad7a7d2de7e353550ba4/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/3047b75b5b870632b85ad7a457cb741a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/7340756703d97e30713b9a7b704eff1c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/8883231c38990a56ddc0fa680ba2d9ff/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:2:1-70:12
+		INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:2:1-70:12
+		INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:12:5-79
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/632375fa8c254bc0bff49a5f7d66e3bc/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/632375fa8c254bc0bff49a5f7d66e3bc/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9b96690fa955c4663ec5fe202888b4f1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9b96690fa955c4663ec5fe202888b4f1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:9:5-68:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/64d5254b6bd114d1980aa2f9533ed865/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/64d5254b6bd114d1980aa2f9533ed865/AndroidManifest.xml:5:5-20
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:15:5-84:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:15:5-84:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/6fa4acce58152cf0a7a5d9d9a7a3d5d7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/6fa4acce58152cf0a7a5d9d9a7a3d5d7/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/632375fa8c254bc0bff49a5f7d66e3bc/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/632375fa8c254bc0bff49a5f7d66e3bc/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/751932569fe52902ad89f1ac860c1a17/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/751932569fe52902ad89f1ac860c1a17/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f1ed2e4f34b0ddb4c6bbc17ef01d3eb2/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f1ed2e4f34b0ddb4c6bbc17ef01d3eb2/AndroidManifest.xml:22:5-37:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bb4d61515926a8571b769d564579be0/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bb4d61515926a8571b769d564579be0/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:27:5-52:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/c02d5cbd0376dbe83349e00cea82f175/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/c02d5cbd0376dbe83349e00cea82f175/AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/c9f818f9599b6079799f0fe147bab3f8/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/c9f818f9599b6079799f0fe147bab3f8/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9b96690fa955c4663ec5fe202888b4f1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9b96690fa955c4663ec5fe202888b4f1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/4e737847a7efa60f814d3e4eafe1419a/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/4e737847a7efa60f814d3e4eafe1419a/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2e9234bd919d7a655420faea22a8ae20/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2e9234bd919d7a655420faea22a8ae20/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/9a47243299bf5fc8f9f6a850e8aaf526/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/9a47243299bf5fc8f9f6a850e8aaf526/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2456679166e920eb6c4486a4be1df957/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2456679166e920eb6c4486a4be1df957/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/6f173abd30e534d25640a08209f5ff68/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/6f173abd30e534d25640a08209f5ff68/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/0057221f210c72e54c01e70aab9d8dfe/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/0057221f210c72e54c01e70aab9d8dfe/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/1d0ef7a09ec358be2c8eb973ca486500/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/1d0ef7a09ec358be2c8eb973ca486500/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/0810bc9a2c2385b8ad8d57ab8430acca/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/0810bc9a2c2385b8ad8d57ab8430acca/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/31b590a47a0887c96d71a3eccdc922bc/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/31b590a47a0887c96d71a3eccdc922bc/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/8b23b8f1933814e747e2ac7057a1e643/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/8b23b8f1933814e747e2ac7057a1e643/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/b1ec93a0838788dd005c49c2845556a5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/b1ec93a0838788dd005c49c2845556a5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/e9f4eb6d31d654fc26e014bf318bcd57/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/e9f4eb6d31d654fc26e014bf318bcd57/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/dd5eb7b2cf969539630e2f4fc565b15c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/dd5eb7b2cf969539630e2f4fc565b15c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/27d78caabe96ff7870cd1aa03dca96c1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/27d78caabe96ff7870cd1aa03dca96c1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/369261932186f973a9760168ee1dbf63/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/369261932186f973a9760168ee1dbf63/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/8128c5974c29a000753f927eba2eb3bc/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/8128c5974c29a000753f927eba2eb3bc/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/89d217a4bfffad7a7d2de7e353550ba4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/89d217a4bfffad7a7d2de7e353550ba4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/3047b75b5b870632b85ad7a457cb741a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/3047b75b5b870632b85ad7a457cb741a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/7340756703d97e30713b9a7b704eff1c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/7340756703d97e30713b9a7b704eff1c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/8883231c38990a56ddc0fa680ba2d9ff/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/8883231c38990a56ddc0fa680ba2d9ff/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.nasipattaya.mallsyok.Menu.HomeActivity
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:screenOrientation
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:17:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.nasipattaya.mallsyok.Directory.OutletListActivity
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:25:9-29:20
+	android:screenOrientation
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:27:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:26:13-57
+activity#com.nasipattaya.mallsyok.Directory.SingleOutletActivity
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:30:9-34:20
+	android:screenOrientation
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:31:13-59
+activity#com.nasipattaya.mallsyok.Menu.MapActivity
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:35:9-38:20
+	android:screenOrientation
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:36:13-45
+activity#com.nasipattaya.mallsyok.Menu.NavigationActivity
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:39:9-42:20
+	android:screenOrientation
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:40:13-52
+activity#com.nasipattaya.mallsyok.Menu.OthersActivity
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:43:9-46:20
+	android:screenOrientation
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:45:13-49
+	android:name
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:44:13-48
+activity#com.nasipattaya.mallsyok.Others.ContactActivity
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:47:9-50:20
+	android:screenOrientation
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:48:13-51
+activity#com.nasipattaya.mallsyok.Others.ParkingActivity
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:51:9-54:20
+	android:screenOrientation
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:52:13-51
+activity#com.nasipattaya.mallsyok.Others.DirectionActivity
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:55:9-58:20
+	android:screenOrientation
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:57:13-49
+	android:name
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:56:13-53
+activity#com.nasipattaya.mallsyok.Others.OpeningActivity
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:59:9-62:20
+	android:screenOrientation
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:60:13-51
+activity#com.nasipattaya.mallsyok.Others.AboutActivity
+ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:63:9-66:20
+	android:screenOrientation
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml:64:13-49
+uses-sdk
+INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml
+INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/64d5254b6bd114d1980aa2f9533ed865/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/64d5254b6bd114d1980aa2f9533ed865/AndroidManifest.xml:4:5-43
+MERGED from [io.github.kobakei:ratethisapp:1.2.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/ratethisapp-1.2.0.aar/3f7974790e6b9684a3fc0885fcca5c9c/AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.kobakei:ratethisapp:1.2.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/ratethisapp-1.2.0.aar/3f7974790e6b9684a3fc0885fcca5c9c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/777b7c9282e34c9806e6efb08e7dfc71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/777b7c9282e34c9806e6efb08e7dfc71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.0.aar/544c09663df384c46afa1a5392dd56d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.0.aar/544c09663df384c46afa1a5392dd56d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/477cb3ce28420c7dd5b83da9a0b4631d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/477cb3ce28420c7dd5b83da9a0b4631d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/6fa4acce58152cf0a7a5d9d9a7a3d5d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/6fa4acce58152cf0a7a5d9d9a7a3d5d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/dfaba245df6c79599ae47f7bdf08a7c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/dfaba245df6c79599ae47f7bdf08a7c6/AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-firestore:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-firestore-3.2.2.aar/a4953ad22a019bc20097d029e6fdd461/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-firestore:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-firestore-3.2.2.aar/a4953ad22a019bc20097d029e6fdd461/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/38aecf1bd7549d0e1f1f588e36327109/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/38aecf1bd7549d0e1f1f588e36327109/AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-storage:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-storage-3.2.2.aar/0892aeac8b19f28a5b7521e38682707a/AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-storage:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-storage-3.2.2.aar/0892aeac8b19f28a5b7521e38682707a/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.8.0.aar/9d3423ad5a410b4db6f5e239012804bd/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.8.0.aar/9d3423ad5a410b4db6f5e239012804bd/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-firestore-11.8.0.aar/8545f4c5a9f2b39dd533f527cb898ebb/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-firestore-11.8.0.aar/8545f4c5a9f2b39dd533f527cb898ebb/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/632375fa8c254bc0bff49a5f7d66e3bc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/632375fa8c254bc0bff49a5f7d66e3bc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/751932569fe52902ad89f1ac860c1a17/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/751932569fe52902ad89f1ac860c1a17/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f1ed2e4f34b0ddb4c6bbc17ef01d3eb2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f1ed2e4f34b0ddb4c6bbc17ef01d3eb2/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/a978c5d8a506218e8c987bb6ed0fdefa/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/a978c5d8a506218e8c987bb6ed0fdefa/AndroidManifest.xml:5:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bb4d61515926a8571b769d564579be0/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bb4d61515926a8571b769d564579be0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-3.2.2.aar/943b12ef080c0376256a0465d7272c36/AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-3.2.2.aar/943b12ef080c0376256a0465d7272c36/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/d366017f89e4092c9d623d7f233d5e4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/d366017f89e4092c9d623d7f233d5e4c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/c02d5cbd0376dbe83349e00cea82f175/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/c02d5cbd0376dbe83349e00cea82f175/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/76738b90abe81710a04296e2bb051597/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/76738b90abe81710a04296e2bb051597/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/c9f818f9599b6079799f0fe147bab3f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/c9f818f9599b6079799f0fe147bab3f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/5cf2f0603ac9a320bce907fb4a6b58d1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/5cf2f0603ac9a320bce907fb4a6b58d1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9b96690fa955c4663ec5fe202888b4f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9b96690fa955c4663ec5fe202888b4f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/4e737847a7efa60f814d3e4eafe1419a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/4e737847a7efa60f814d3e4eafe1419a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/041ac26262146ec57b00aa76b84b7399/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/041ac26262146ec57b00aa76b84b7399/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/47ab436b11b9040edf6b42541b0ec200/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/47ab436b11b9040edf6b42541b0ec200/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2e9234bd919d7a655420faea22a8ae20/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2e9234bd919d7a655420faea22a8ae20/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/9a47243299bf5fc8f9f6a850e8aaf526/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/9a47243299bf5fc8f9f6a850e8aaf526/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2456679166e920eb6c4486a4be1df957/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2456679166e920eb6c4486a4be1df957/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/0492ab251bdf7f616bbc18bbc78632e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/0492ab251bdf7f616bbc18bbc78632e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/3183dcec8d4ce65a616863ba213a6559/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/3183dcec8d4ce65a616863ba213a6559/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/6f173abd30e534d25640a08209f5ff68/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/6f173abd30e534d25640a08209f5ff68/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/7ba0dd172d1a0d0c8d00fb09b7b4b1ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/7ba0dd172d1a0d0c8d00fb09b7b4b1ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/fed4fed1aadb009504b76c4ee2ef191e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/fed4fed1aadb009504b76c4ee2ef191e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/715c5e8159b71e20affb0ae630f6cec8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/715c5e8159b71e20affb0ae630f6cec8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/3b95ce8dd3b22bb8fe83f44def7e1e6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/3b95ce8dd3b22bb8fe83f44def7e1e6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/75e52ee6fc821a32d8ecad047a4a25c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/75e52ee6fc821a32d8ecad047a4a25c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/d20e2604a2724b17001a94297ce367c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/d20e2604a2724b17001a94297ce367c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dc8303ca4c8a3235b586bca6d92b8359/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dc8303ca4c8a3235b586bca6d92b8359/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/290388abcee5a07c362a22fca7ac6b6a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/290388abcee5a07c362a22fca7ac6b6a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2c8f1713cfc53616cdaa92af895b2a6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2c8f1713cfc53616cdaa92af895b2a6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/71d5468fd9d1ea2b36627841e396bd28/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/71d5468fd9d1ea2b36627841e396bd28/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/943007002ec5a0102d6bef26fcdc6899/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/943007002ec5a0102d6bef26fcdc6899/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/0057221f210c72e54c01e70aab9d8dfe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/0057221f210c72e54c01e70aab9d8dfe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/1d0ef7a09ec358be2c8eb973ca486500/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/1d0ef7a09ec358be2c8eb973ca486500/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/0810bc9a2c2385b8ad8d57ab8430acca/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/0810bc9a2c2385b8ad8d57ab8430acca/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/31b590a47a0887c96d71a3eccdc922bc/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/31b590a47a0887c96d71a3eccdc922bc/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/8b23b8f1933814e747e2ac7057a1e643/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/8b23b8f1933814e747e2ac7057a1e643/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/b1ec93a0838788dd005c49c2845556a5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/b1ec93a0838788dd005c49c2845556a5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/e9f4eb6d31d654fc26e014bf318bcd57/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/e9f4eb6d31d654fc26e014bf318bcd57/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/dd5eb7b2cf969539630e2f4fc565b15c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/dd5eb7b2cf969539630e2f4fc565b15c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/27d78caabe96ff7870cd1aa03dca96c1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/27d78caabe96ff7870cd1aa03dca96c1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/369261932186f973a9760168ee1dbf63/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/369261932186f973a9760168ee1dbf63/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/8128c5974c29a000753f927eba2eb3bc/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/8128c5974c29a000753f927eba2eb3bc/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/89d217a4bfffad7a7d2de7e353550ba4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/89d217a4bfffad7a7d2de7e353550ba4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/3047b75b5b870632b85ad7a457cb741a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/3047b75b5b870632b85ad7a457cb741a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/7340756703d97e30713b9a7b704eff1c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/7340756703d97e30713b9a7b704eff1c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/8883231c38990a56ddc0fa680ba2d9ff/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/8883231c38990a56ddc0fa680ba2d9ff/AndroidManifest.xml:4:5-43
+INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml
+INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml
+		ADDED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-firestore:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-firestore-3.2.2.aar/a4953ad22a019bc20097d029e6fdd461/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-firestore:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-firestore-3.2.2.aar/a4953ad22a019bc20097d029e6fdd461/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/632375fa8c254bc0bff49a5f7d66e3bc/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/632375fa8c254bc0bff49a5f7d66e3bc/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9b96690fa955c4663ec5fe202888b4f1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9b96690fa955c4663ec5fe202888b4f1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:13:22-64
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2456679166e920eb6c4486a4be1df957/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/2456679166e920eb6c4486a4be1df957/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:20:13-58
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:23:9-27:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:26:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:24:13-64
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:28:9-31:75
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:31:13-72
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:29:13-81
+activity#com.firebase.ui.auth.ui.email.EmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:32:9-36:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:35:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:36:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:33:13-71
+activity#com.firebase.ui.auth.ui.phone.PhoneActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:37:9-41:77
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:40:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:41:13-74
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:38:13-71
+activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:42:9-45:73
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:45:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:43:13-76
+activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:46:9-50:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:49:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:50:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:47:13-83
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:51:9-54:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:54:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:52:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:55:9-59:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:58:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:59:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:57:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:56:13-57
+activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:60:9-64:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:63:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:62:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:64:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:61:13-86
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:65:9-77:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:67:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:68:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:66:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:69:13-76:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:70:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:70:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:72:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:72:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:73:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:73:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:75:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:75:23-78
+provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:79:9-83:38
+	android:authorities
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:81:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:82:13-37
+	android:initOrder
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:83:13-35
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/88b91efe1ebda764bf253a9725e4ed89/AndroidManifest.xml:80:13-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/632375fa8c254bc0bff49a5f7d66e3bc/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/632375fa8c254bc0bff49a5f7d66e3bc/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/632375fa8c254bc0bff49a5f7d66e3bc/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f1ed2e4f34b0ddb4c6bbc17ef01d3eb2/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f1ed2e4f34b0ddb4c6bbc17ef01d3eb2/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f1ed2e4f34b0ddb4c6bbc17ef01d3eb2/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f1ed2e4f34b0ddb4c6bbc17ef01d3eb2/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f1ed2e4f34b0ddb4c6bbc17ef01d3eb2/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f1ed2e4f34b0ddb4c6bbc17ef01d3eb2/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f1ed2e4f34b0ddb4c6bbc17ef01d3eb2/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f1ed2e4f34b0ddb4c6bbc17ef01d3eb2/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f1ed2e4f34b0ddb4c6bbc17ef01d3eb2/AndroidManifest.xml:34:13-89
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bb4d61515926a8571b769d564579be0/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bb4d61515926a8571b769d564579be0/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bb4d61515926a8571b769d564579be0/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bb4d61515926a8571b769d564579be0/AndroidManifest.xml:9:13-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9b96690fa955c4663ec5fe202888b4f1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9b96690fa955c4663ec5fe202888b4f1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9b96690fa955c4663ec5fe202888b4f1/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9b96690fa955c4663ec5fe202888b4f1/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9b96690fa955c4663ec5fe202888b4f1/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/9b96690fa955c4663ec5fe202888b4f1/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/62a275d10f765512975020d5ce5ec728/AndroidManifest.xml:48:13-87
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/c02d5cbd0376dbe83349e00cea82f175/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/c02d5cbd0376dbe83349e00cea82f175/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/c02d5cbd0376dbe83349e00cea82f175/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/c02d5cbd0376dbe83349e00cea82f175/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/c02d5cbd0376dbe83349e00cea82f175/AndroidManifest.xml:24:13-83
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/c9f818f9599b6079799f0fe147bab3f8/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/c9f818f9599b6079799f0fe147bab3f8/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/c9f818f9599b6079799f0fe147bab3f8/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/c9f818f9599b6079799f0fe147bab3f8/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/c9f818f9599b6079799f0fe147bab3f8/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/c9f818f9599b6079799f0fe147bab3f8/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/c9f818f9599b6079799f0fe147bab3f8/AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:29:9-63
+permission#com.nasipattaya.mallsyok.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:32:22-76
+uses-permission#com.nasipattaya.mallsyok.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.nasipattaya.mallsyok
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:42:27-58
+category#com.nasipattaya.mallsyok
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/679aaf0ea41e62db0c04ac1ca4dbdb94/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/4e737847a7efa60f814d3e4eafe1419a/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/4e737847a7efa60f814d3e4eafe1419a/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/4e737847a7efa60f814d3e4eafe1419a/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/4e737847a7efa60f814d3e4eafe1419a/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/4e737847a7efa60f814d3e4eafe1419a/AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2e9234bd919d7a655420faea22a8ae20/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2e9234bd919d7a655420faea22a8ae20/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2e9234bd919d7a655420faea22a8ae20/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/davidcheah/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2e9234bd919d7a655420faea22a8ae20/AndroidManifest.xml:24:13-79

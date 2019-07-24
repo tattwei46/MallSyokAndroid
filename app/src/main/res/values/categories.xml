@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="outlet_categories">
+        <item>All categories</item>
+        <item>Amenities</item>
+        <item>Beauty &amp; Hair Salon</item>
+        <item>Books &amp; Stationaries</item>
+        <item>Convenience &amp; Services</item>
+        <item>Cosmetics &amp; Skincare</item>
+        <item>Departmental Store</item>
+        <item>Digital Lifestyle</item>
+        <item>Entertainment</item>
+        <item>Fashion</item>
+        <item>Financial Service &amp; ATM</item>
+        <item>Fitness &amp; Wellness Centre</item>
+        <item>Food &amp; Beverages</item>
+        <item>Gifts &amp; Souvenirs</item>
+        <item>Health &amp; Fitness Equipment</item>
+        <item>Home &amp; Living</item>
+        <item>Music &amp; Instruments</item>
+        <item>Office</item>
+        <item>Optical</item>
+        <item>Personal Care &amp; Pharmacy</item>
+        <item>Timepieces &amp; Jewelleries</item>
+        <item>Toys &amp; Hobbies</item>
+    </string-array>
+</resources>

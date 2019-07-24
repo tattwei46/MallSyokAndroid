@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/davidcheah/Desktop/NasiPattaya/MallSyok/Android/MallSyok/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gr/values-gr.xml",
+            "map": [
+                {
+                    "source": "/Users/davidcheah/.gradle/caches/transforms-1/files-1.1/ratethisapp-1.2.0.aar/3f7974790e6b9684a3fc0885fcca5c9c/res/values-gr/values-gr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,110,283,339,399",
+                        "endColumns": "54,172,55,59,70",
+                        "endOffsets": "105,278,334,394,465"
+                    }
+                }
+            ]
+        }
+    ]
+}

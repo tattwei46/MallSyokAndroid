@@ -1,0 +1,39 @@
+<resources>
+    <!-- Mallsyok App-->
+    <string name="app_name">MallSyok</string>
+    <string name="VERSION_LABEL">v1.44</string>
+
+    <!-- App Rater-->
+    <string name="APP_RATER_TITLE">Write to us</string>
+    <string name="APP_RATER_MESSAGE">Hope you enjoy using this app. Would you mind take a moment to write us your feedback? It won\'t take more than a minute. Thank you for your support!</string>
+
+    <!-- Location Permission-->
+    <string name="LOCATION_PERMISSION_TITLE">Permission</string>
+    <string name="LOCATION_PERMISSION_MESSAGE">Mallsyok needs to use your location to complete your request</string>
+
+    <!-- Navigation Bar-->
+    <string name="MENU_HOME">Home</string>
+    <string name="MENU_HIGHLIGHTS">Highlights</string>
+    <string name="MENU_DIRECTORY">Directory</string>
+    <string name="MENU_NAVIGATION">Map</string>
+
+    <!-- Others submenu-->
+    <string name="MENU_OTHERS">Others</string>
+    <string name="MENU_OTHERS_CONTACT">Contact</string>
+    <string name="MENU_OTHERS_OPENING">Opening Hours</string>
+    <string name="MENU_OTHERS_PARKING">Parking Rate</string>
+    <string name="MENU_OTHERS_DIRECTION">Getting There</string>
+    <string name="MENU_OTHERS_ABOUT_US">About Us</string>
+
+    <string name="MENU_OTHERS_OPENING_STATUS_OPEN">OPENS NOW</string>
+    <string name="MENU_OTHERS_OPENING_STATUS_CLOSE">CLOSED NOW</string>
+
+    <!-- Error message -->
+    <string name="ERR_OFFLINE">No Internet Found</string>
+    <string name="ERR_NO_MALL">No Mall Found</string>
+    <string name="ERR_NO_OUTLET">No Outlet Found</string>
+    <string name="ERR_NO_INFO">No Information Found</string>
+
+    <!-- Other message -->
+    <string name="MSG_TAP_OUTLET_LOCATION">Tap to see outlet location</string>
+</resources>
